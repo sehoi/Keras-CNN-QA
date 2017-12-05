@@ -1,0 +1,21 @@
+# compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.c
+
+# log files
+*.log
+*.out
+
+# data files
+*.json
+
+# directories
+TRAIN-ALL/
+TRAIN/
+data/
+embeddings/
